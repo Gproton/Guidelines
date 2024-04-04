@@ -1,0 +1,5 @@
+// variable with placeholder
+{{ product.name|default('product_name') }}
+
+// correct way to backup my ocmod commands
+<operation error="skip">
